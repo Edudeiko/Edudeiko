@@ -48,12 +48,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edudeiko&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Edudeiko's GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudeiko&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edudeiko&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
 </p>
 
