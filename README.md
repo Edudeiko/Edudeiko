@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://edudeiko.github.io"><img src="https://img.shields.io/badge/Portfolio-edudeiko.github.io-blue?style=flat-square&logo=github" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/edudeiko"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Edudeiko&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -47,12 +48,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edudeiko&show_icons=true&theme=tokyonight&hide_border=true" alt="Edudeiko's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudeiko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edudeiko&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Edudeiko's GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudeiko&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edudeiko&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Edudeiko&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
