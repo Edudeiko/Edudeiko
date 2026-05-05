@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudeiko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edudeiko&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+</p>
+
 ---
 
 <p align="center">
